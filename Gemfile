@@ -8,7 +8,7 @@ group :development, :test do
   gem 'bundler'
   gem 'hashie'
   gem 'rake'
-  gem 'rubocop', '0.51.0'
+  gem 'rubocop', '~> 0.52.0'
 end
 
 group :development do

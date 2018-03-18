@@ -23,7 +23,7 @@ Lint/AmbiguousBlockAssociation:
     - 'spec/grape/dsl/routing_spec.rb'
 
 # Offense count: 1
-Lint/RescueWithoutErrorClass:
+Style/RescueStandardError:
   Exclude:
     - 'lib/grape/validations/validators/coerce.rb'
 
